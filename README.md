@@ -30,7 +30,7 @@ Sed bibendum risus eu posuere pellentesque. Fusce condimentum cursus magna, et r
 
 ## Empathy
 
-##Connecting the dots (tacit -> explicit knowledge)
+## Connecting the dots (tacit -> explicit knowledge)
 
 # Zooming in on authenticity in content
 
